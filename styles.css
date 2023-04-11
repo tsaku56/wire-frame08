@@ -26,6 +26,7 @@ p.text {
   max-height: 300px;
   overflow: auto;
   margin-bottom: 1rem;
+  color: rgb(114, 111, 111);
 }
 
 .center {
